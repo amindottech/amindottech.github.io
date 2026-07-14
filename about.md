@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I am a Solution Architect specialized in designing and building cloud data platforms. I currently work on Data & AI at Microsoft. I share things I learn from my day to day engagements with Microsoft customers deploying products like Microsoft Fabric & Power BI, Microsoft Purview, Azure Databricks, and others. Posts here are my own opinions, not official Microsoft statements.
+I am a Data & AI Solutions Architect specialized in Microsoft Fabric. This site contains notes and thoughts about all things Fabric, data, analytics, and AI. All posts are my opinion, not my employer's.  
