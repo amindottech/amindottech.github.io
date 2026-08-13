@@ -54,8 +54,6 @@ minima:
     - title: Linkedin
       icon: linkedin
       url: "https://linkedin.com/in/modamin"
-    - title: Resume
-      icon: website
-      url: "https://mohamedamin.com"
+
   
   hide_site_feed_link: true
