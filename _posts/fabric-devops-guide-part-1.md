@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Microsoft Fabric Integration Architecture"
+title: "Fabric DevOps Guide - Part 1"
 categories: fabric
 ---
 
-This article describes the integration points between Microsoft Fabric and other services such as on-premises data sources, Power Apps, Azure DevOps and Azure services and data sources.
+This article is a first in a series of articles describing how to do Fabric DevOps
 
 
 ### Integration points
