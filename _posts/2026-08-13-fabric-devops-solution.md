@@ -2,6 +2,7 @@
 layout: post
 title: "Fabric DevOps Solution"
 categories: fabric
+date: 2026-08-14
 ---
 
 This is a guided solution for doing end-to-end CI/CD in Microsoft Fabric. This is one of many possible implementations. It targets data engineering solutions; Notebooks, LakeHouses, Pipelines, Variable libraries, and Semantic Models. 
