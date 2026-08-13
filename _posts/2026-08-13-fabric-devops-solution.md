@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fabric DevOps Guide - Part 1"
+title: "Fabric DevOps Solution"
 categories: fabric
 ---
 
