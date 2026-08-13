@@ -10,7 +10,7 @@ This is a guided solution for doing end-to-end CI/CD in Microsoft Fabric. This i
 ### Agenda
  
 1. Solution Architecture
-![alt text](../assets/2026-08-13-fabric-devops-solution/image.png)
+![alt text](/assets/2026-08-13-fabric-devops-solution/image.png)
 2. Doing CI
    1. Feature branches and workspaces
    2. Feature to Dev workspace
