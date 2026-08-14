@@ -24,8 +24,10 @@ This is a guided solution for doing end-to-end CI/CD in Microsoft Fabric. This i
 5. Post deployment
    1. Migration scripts
    2. Scheduling pipelines
+   3. Testing
 6. Semantic Models Connection management
    1. Direct Lake
    2. Import Mode
 
-Coming soon..
+
+Write up coming soon. Check the solution here: ![](https://github.com/modamin/fabric-devops)
