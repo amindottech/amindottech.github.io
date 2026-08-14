@@ -30,4 +30,4 @@ This is a guided solution for doing end-to-end CI/CD in Microsoft Fabric. This i
    2. Import Mode
 
 
-Write up coming soon. Check the solution here: ![fabric-devops](https://github.com/modamin/fabric-devops)
+Write up coming soon. Check the solution here: [fabric-devops](https://github.com/modamin/fabric-devops)
